@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Young-Woon Byeon
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Berkeley Lab
+  url: "lbl.gov"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests is on the understanding structural/mechanistic origins of the degradation behavior of battery material during electrochemical cycles
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Electron microscopy
+- Sulfide solid electrolytes
+- Cation mixing of cathodes
+- Li metal anodes
+- Catalyst supports
+- Diffusion behaviors of charge carrier ions
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Materials Science and Engineering
+    institution: Korea University
+    year: 2020
+  - course: BSc in Materials Science and Engineering
+    institution: Korea University
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,10 +44,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:ywbyeon@lbl.gov".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/yw_byeon
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/ywbyeon/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
