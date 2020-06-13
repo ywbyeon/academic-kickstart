@@ -15,7 +15,7 @@ role: Postdoc
 # Organizations/Affiliations
 organizations:
 - name: Berkeley Lab
-  url: "lbl.gov"
+  url: https://lbl.gov
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests is on the understanding structural/mechanistic origins of the degradation behavior of battery material during electrochemical cycles
@@ -26,7 +26,7 @@ interests:
 - Cation mixing of cathodes
 - Li metal anodes
 - Catalyst supports
-- Diffusion behaviors of charge carrier ions
+- Diffusion of Li or Na ions
 
 education:
   courses:
