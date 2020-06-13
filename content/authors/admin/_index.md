@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:ywbyeon@lbl.gov".
+  link: mailto:ywbyeon@lbl.gov
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/yw_byeon
@@ -53,8 +53,8 @@ social:
   link: https://www.linkedin.com/in/ywbyeon/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://scholar.google.com/citations?user=kEQgiVoAAAAJ
+- icon: orcid
   icon_pack: fab
   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
