@@ -10,12 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoc
+role: Postdoctoral Scholar
 
 # Organizations/Affiliations
 organizations:
-- name: Berkeley Lab
-  url: https://lbl.gov
+- name: Lawrence Berkeley National Laboratory
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests is on the understanding structural/mechanistic origins of the degradation behavior of battery material during electrochemical cycles
@@ -69,9 +68,9 @@ email: "ywbyeon@lbl.gov"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
